@@ -15,7 +15,7 @@ const transporter = nodemailer.createTransport({
     from: 'learnwithayman.4951@gmail.com', // Sender's email
     to: 'mohd.aymanhussain2109@mailom', // Recipient's email
     subject: 'Verification Code', // Email subject
-    text: 'MS_PROJECT 1-100 discipline cohort twitter', // Plain text body
+    text: 'MS_PROJECT 1-100 patience discipline cohort twitter', // Plain text body
     // html: '<b>Hello, this is the email body in HTML!</b>' // Optionally, an HTML body
   };
   
