@@ -1,6 +1,10 @@
 import nodemailer from "nodemailer"
 
 
+function goals() {
+  return "New Goals"
+}
+
 
 const transporter = nodemailer.createTransport({
     service: 'gmail', // You can use any email service provider
